@@ -16,7 +16,7 @@ f.close()
 #This is pankaj Adding further more doce
 l1 = [4, 5, 6, 7,]
  print(l1)
-print("Pankaj Dwivedi")
+print("Pankaj")
   
 
   
